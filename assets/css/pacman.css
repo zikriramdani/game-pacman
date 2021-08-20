@@ -376,7 +376,7 @@ h3 {
 		display: none;
 	}
 	#panel, #home { 
-		zoom: 74%; /*105%;*/
+		zoom: 65%; /*105%;*/
 	}
 	#control-up-big, #control-down-big, #control-left-big, #control-right-big { 
 		display: inline; 
