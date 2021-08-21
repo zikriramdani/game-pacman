@@ -213,14 +213,14 @@ span.combo, span.fruits {
 	background-image: url('../img/move-down-big.png');
 }
 #control-left-big { 
-	left: 130px; /*80px;*/
+	left: 100px; /*80px;*/
 	bottom: -205px; /*-90px;*/
 	width: 125px;
 	height: 175px;
 	background-image: url('../img/move-left-big.png');
 }
 #control-right-big { 
-	right: 130px; /*80px;*/
+	right: 100px; /*80px;*/
 	bottom: -205px; /*-90px;*/
 	width: 125px;
 	height: 175px;
