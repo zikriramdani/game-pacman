@@ -1,5 +1,13 @@
 # Game PAC-MAN
 
-Link Demo : [https://zikriramdani.github.io/game-pacman/]
+Please visit <https://zikriramdani.github.io/game-pacman>
 
-![result](https://github.com/zikriramdani/game-pacman/blob/main/ScreenShot.png)
+## Tentang Website
+
+Website ini dibuat menggunakan HTML dengan tambahan package-package lain, seperti :
+
+```bash
+ 1. Css
+ 2. Javascript,
+ 3. Jquery,
+```
